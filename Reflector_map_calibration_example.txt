@@ -1,0 +1,9 @@
+#File type: reflector_map
+#Reflector map ID: 001
+#Reflector number: 10
+#Last time changed: 2019-01-01
+#Ref_ID: x(mm) y(mm)
+100	-1744	-652
+200	1854	-1838
+300	784	676
+400	-636	751

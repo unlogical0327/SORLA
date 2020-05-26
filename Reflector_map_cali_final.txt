@@ -1,0 +1,11 @@
+#File type: reflector_map
+#Reflector map ID: 001
+#Reflector number: 10
+#Last time changed: 2019-01-01
+#Ref_ID: x(mm) y(mm)
+1	1450	-1610
+2	8590	-1276
+3	13368	-1040
+10	1302	1832
+11	6059	2086
+12	13239	2466

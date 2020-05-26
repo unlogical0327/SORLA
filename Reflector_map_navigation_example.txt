@@ -1,0 +1,15 @@
+#File type: reflector_map
+#Reflector map ID: 002
+#Reflector number: 132
+#Last time changed: 2019-01-01
+#Ref_ID: x(mm) y(mm)
+1	1795	-1630
+2	8953	-1700
+3	13720	-1850
+4	20892	-1920
+5	25700	-1850
+14	25773	1576
+13	18625	1650
+12	13845	1724
+11	6670	1825
+10	1885	1882
